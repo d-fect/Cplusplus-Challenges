@@ -2,8 +2,8 @@
 A place where I collect my programming challenges and solutions to learn C++ better.
 
 ## Current ideas
-** Bubble sort
-** Quick sort
+* Bubble sort
+* Quick sort
 
 ## Websites with challenges
 I will check out the sites listed below to find more challenges
